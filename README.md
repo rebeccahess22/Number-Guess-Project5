@@ -1,4 +1,5 @@
 ***Number Guess Project***  
+
 This is the fifth and final project of the freeCodeCamp relational database course toward obtaining a relational database certification. 
 In this project I utilize the bash terminal to create a git repository titled number_guess and shell script titled number_guess.sh. Further I create a database titled number_guess with tables users and games. The bash commands are recorded in the bashterminal.sh script for continuity. 
 
