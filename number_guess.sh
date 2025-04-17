@@ -75,7 +75,7 @@ GUESSING_GAME() {
           read NUMBER_ENTERED
 
           ((NUMBER_OF_GUESSES++)) 
-        #if it was less than the number entered
+        #if it was less than the secret number
         elif [[ $NUMBER_ENTERED -lt $SECRET_NUMBER ]]
         then 
           echo "It's higher than that, guess again:"
