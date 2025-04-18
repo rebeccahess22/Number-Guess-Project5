@@ -2,7 +2,7 @@
 PSQL="psql --username=freecodecamp --dbname=number_guess -t --no-align -c"
 
 #randomly generate a number that users have to guess 
-#define the projram 
+#define the program 
 GUESSING_GAME() {
 
   #if a message is passed, print it
